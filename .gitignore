@@ -1,3 +1,4 @@
 build/*
 package.xml
 Services_Libravatar-*.tgz
+/vendor/
