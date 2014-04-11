@@ -1,6 +1,7 @@
 {
     "name": "sunchaser/services-libravatar",
     "description": "PHP support for the Libravatar.org service",
+    "keywords": ["libravatar", "avatar"],
     "license": "MIT",
     "authors": [
         {
