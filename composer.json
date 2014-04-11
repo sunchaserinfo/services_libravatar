@@ -9,8 +9,12 @@
         }
     ],
     "autoload": {
-        "psr-0": { "Services_": "/" }
+        "classmap": ["Services"]
     },
+    "replace": {
+        "pear-pear/services_libravatar": "self.version",
+        "pear-pear.php.net/services_libravatar": "self.version",
+    }
     "require": {
         "php": ">= 5.3"
     }
