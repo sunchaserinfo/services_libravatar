@@ -13,8 +13,8 @@
         "classmap": ["Services"]
     },
     "replace": {
-        "pear-pear/services_libravatar": "self.version",
-        "pear-pear.php.net/services_libravatar": "self.version"
+        "pear-pear/services_libravatar": "0.2.3",
+        "pear-pear.php.net/services_libravatar": "0.2.3"
     },
     "require": {
         "php": ">= 5.3"
