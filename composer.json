@@ -2,7 +2,7 @@
     "name": "sunchaser/services-libravatar",
     "description": "PHP support for the Libravatar.org service",
     "keywords": ["libravatar", "avatar"],
-    "license": "MIT",
+    "type": "metapackage",
     "require": {
         "pear/services_libravatar": "0.2.*"
     }
