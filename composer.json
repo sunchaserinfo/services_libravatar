@@ -3,20 +3,7 @@
     "description": "PHP support for the Libravatar.org service",
     "keywords": ["libravatar", "avatar"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Melissa Draper",
-            "email": "melissa@meldraweb.com"
-        }
-    ],
-    "autoload": {
-        "classmap": ["Services"]
-    },
-    "replace": {
-        "pear-pear/services_libravatar": "0.2.3",
-        "pear-pear.php.net/services_libravatar": "0.2.3"
-    },
     "require": {
-        "php": ">= 5.3"
+        "pear/services_libravatar": "0.2.*"
     }
 }
